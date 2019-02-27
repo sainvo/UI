@@ -1,0 +1,260 @@
+24 Feb 2019 16:21:43 GMT: Log 'EclipseCompiler.txt' opened: 24 Feb 2019 16:21:43 GMT with name C:\Users\OWNER\Documents\GitHub\UI\EclipseCompiler.txt
+24 Feb 2019 16:21:43 GMT: Log 'EclipseCompiler.txt' opened: 24 Feb 2019 16:21:43 GMT with name C:\Users\OWNER\Documents\GitHub\UI\EclipseCompiler.txt
+24 Feb 2019 16:22:46 GMT: diagnostics = javax.tools.DiagnosticCollector@6e3824c7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@9683ba
+fileObjects = [C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java]
+24 Feb 2019 16:22:46 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@75664dab' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\OWNER\Desktop\OPINNOT\testit;C:\Users\OWNER\Documents\GitHub\UI\drjava-beta-20160913-225446.exe]
+24 Feb 2019 16:22:46 GMT: Compiler call returned
+24 Feb 2019 16:22:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@29bf529d
+24 Feb 2019 16:22:46 GMT:  Kind = ERROR
+24 Feb 2019 16:22:46 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 23 ColNo = 1 Msg = 'Syntax error, insert "}" to complete ClassBody'
+24 Feb 2019 16:22:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9227e8f
+24 Feb 2019 16:22:46 GMT:  Kind = ERROR
+24 Feb 2019 16:22:46 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 20 ColNo = 15 Msg = 'Syntax error on token "[", { expected'
+24 Feb 2019 16:22:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5a5afe8c
+24 Feb 2019 16:22:46 GMT:  Kind = ERROR
+24 Feb 2019 16:22:46 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 20 ColNo = 25 Msg = 'Syntax error on token "]", } expected'
+24 Feb 2019 16:22:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c7c756c
+24 Feb 2019 16:22:46 GMT:  Kind = ERROR
+24 Feb 2019 16:22:46 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 21 ColNo = 15 Msg = 'Syntax error on token "[", { expected'
+24 Feb 2019 16:22:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2cfbcf6f
+24 Feb 2019 16:22:46 GMT:  Kind = ERROR
+24 Feb 2019 16:22:46 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 21 ColNo = 23 Msg = 'Syntax error on token "]", } expected'
+24 Feb 2019 16:22:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@36b71a79
+24 Feb 2019 16:22:46 GMT:  Kind = ERROR
+24 Feb 2019 16:22:46 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 22 ColNo = 36 Msg = 'Syntax error on token ",", Expression expected after this token'
+24 Feb 2019 16:22:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3b143cbd
+24 Feb 2019 16:22:46 GMT:  Kind = ERROR
+24 Feb 2019 16:22:46 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 18 ColNo = 1 Msg = 'Syntax error on token "}", delete this token'
+24 Feb 2019 16:23:14 GMT: diagnostics = javax.tools.DiagnosticCollector@3cb31de9
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@38327f66
+fileObjects = [C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java]
+24 Feb 2019 16:23:14 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6a4fc3ca' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\OWNER\Desktop\OPINNOT\testit;C:\Users\OWNER\Documents\GitHub\UI\drjava-beta-20160913-225446.exe]
+24 Feb 2019 16:23:14 GMT: Compiler call returned
+24 Feb 2019 16:23:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@58ca712a
+24 Feb 2019 16:23:14 GMT:  Kind = ERROR
+24 Feb 2019 16:23:14 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 23 ColNo = 1 Msg = 'Syntax error, insert "}" to complete ClassBody'
+24 Feb 2019 16:23:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@31dbee0d
+24 Feb 2019 16:23:14 GMT:  Kind = ERROR
+24 Feb 2019 16:23:14 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 20 ColNo = 15 Msg = 'Syntax error on token "[", { expected'
+24 Feb 2019 16:23:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6e3ac15b
+24 Feb 2019 16:23:14 GMT:  Kind = ERROR
+24 Feb 2019 16:23:14 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 20 ColNo = 25 Msg = 'Syntax error on token "]", } expected'
+24 Feb 2019 16:23:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1aab1f8d
+24 Feb 2019 16:23:14 GMT:  Kind = ERROR
+24 Feb 2019 16:23:14 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 21 ColNo = 15 Msg = 'Syntax error on token "[", { expected'
+24 Feb 2019 16:23:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11e37ed3
+24 Feb 2019 16:23:14 GMT:  Kind = ERROR
+24 Feb 2019 16:23:14 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 21 ColNo = 23 Msg = 'Syntax error on token "]", } expected'
+24 Feb 2019 16:23:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7fa65164
+24 Feb 2019 16:23:14 GMT:  Kind = ERROR
+24 Feb 2019 16:23:14 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 22 ColNo = 36 Msg = 'Syntax error on token ",", Expression expected after this token'
+24 Feb 2019 16:23:49 GMT: diagnostics = javax.tools.DiagnosticCollector@41ae01f7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3c78780f
+fileObjects = [C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java]
+24 Feb 2019 16:23:49 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@8b1d66b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\OWNER\Desktop\OPINNOT\testit;C:\Users\OWNER\Documents\GitHub\UI\drjava-beta-20160913-225446.exe]
+24 Feb 2019 16:23:49 GMT: Compiler call returned
+24 Feb 2019 16:23:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e5b0e9
+24 Feb 2019 16:23:49 GMT:  Kind = ERROR
+24 Feb 2019 16:23:49 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 23 ColNo = 1 Msg = 'Syntax error, insert "}" to complete ClassBody'
+24 Feb 2019 16:23:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@560c48d5
+24 Feb 2019 16:23:49 GMT:  Kind = ERROR
+24 Feb 2019 16:23:49 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 22 ColNo = 36 Msg = 'Syntax error on token ",", Expression expected after this token'
+24 Feb 2019 16:23:55 GMT: diagnostics = javax.tools.DiagnosticCollector@64a2dfbd
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@13181d6d
+fileObjects = [C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java]
+24 Feb 2019 16:23:55 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@21c148d0' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\OWNER\Desktop\OPINNOT\testit;C:\Users\OWNER\Documents\GitHub\UI\drjava-beta-20160913-225446.exe]
+24 Feb 2019 16:23:55 GMT: Compiler call returned
+24 Feb 2019 16:23:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4664a777
+24 Feb 2019 16:23:55 GMT:  Kind = ERROR
+24 Feb 2019 16:23:55 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 23 ColNo = 1 Msg = 'Syntax error, insert "}" to complete ClassBody'
+24 Feb 2019 16:23:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11d79c08
+24 Feb 2019 16:23:55 GMT:  Kind = ERROR
+24 Feb 2019 16:23:55 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 22 ColNo = 24 Msg = 'Cannot make a static reference to the non-static method solution(int[], int[]) from the type Solution'
+24 Feb 2019 16:24:40 GMT: diagnostics = javax.tools.DiagnosticCollector@44b7b592
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@12d3bf92
+fileObjects = [C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java]
+24 Feb 2019 16:24:40 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@abe783f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\OWNER\Desktop\OPINNOT\testit;C:\Users\OWNER\Documents\GitHub\UI\drjava-beta-20160913-225446.exe]
+24 Feb 2019 16:24:40 GMT: Compiler call returned
+24 Feb 2019 16:24:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@24f84108
+24 Feb 2019 16:24:40 GMT:  Kind = ERROR
+24 Feb 2019 16:24:40 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 24 ColNo = 1 Msg = 'Syntax error, insert "}" to complete ClassBody'
+24 Feb 2019 16:24:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ac44ab4
+24 Feb 2019 16:24:40 GMT:  Kind = ERROR
+24 Feb 2019 16:24:40 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 22 ColNo = 24 Msg = 'Syntax error, insert ";" to complete Statement'
+24 Feb 2019 16:24:45 GMT: diagnostics = javax.tools.DiagnosticCollector@3ee8e728
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@752dd86f
+fileObjects = [C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java]
+24 Feb 2019 16:24:45 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@24fe325a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\OWNER\Desktop\OPINNOT\testit;C:\Users\OWNER\Documents\GitHub\UI\drjava-beta-20160913-225446.exe]
+24 Feb 2019 16:24:45 GMT: Compiler call returned
+24 Feb 2019 16:24:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@771f9260
+24 Feb 2019 16:24:45 GMT:  Kind = ERROR
+24 Feb 2019 16:24:45 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 24 ColNo = 1 Msg = 'Syntax error, insert "}" to complete ClassBody'
+24 Feb 2019 16:24:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@73fdd420
+24 Feb 2019 16:24:45 GMT:  Kind = ERROR
+24 Feb 2019 16:24:45 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 22 ColNo = 3 Msg = 'result cannot be resolved to a variable'
+24 Feb 2019 16:24:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6897f5d4
+24 Feb 2019 16:24:45 GMT:  Kind = ERROR
+24 Feb 2019 16:24:45 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 22 ColNo = 12 Msg = 'Cannot make a static reference to the non-static method solution(int[], int[]) from the type Solution'
+24 Feb 2019 16:24:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2c3dcbf1
+24 Feb 2019 16:24:45 GMT:  Kind = ERROR
+24 Feb 2019 16:24:45 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 23 ColNo = 24 Msg = 'result cannot be resolved to a variable'
+24 Feb 2019 16:24:56 GMT: diagnostics = javax.tools.DiagnosticCollector@15077b26
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6bfe88d6
+fileObjects = [C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java]
+24 Feb 2019 16:24:56 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@675ff500' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\OWNER\Desktop\OPINNOT\testit;C:\Users\OWNER\Documents\GitHub\UI\drjava-beta-20160913-225446.exe]
+24 Feb 2019 16:24:56 GMT: Compiler call returned
+24 Feb 2019 16:24:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7df4c812
+24 Feb 2019 16:24:56 GMT:  Kind = ERROR
+24 Feb 2019 16:24:56 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 24 ColNo = 1 Msg = 'Syntax error, insert "}" to complete ClassBody'
+24 Feb 2019 16:24:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d3d0862
+24 Feb 2019 16:24:56 GMT:  Kind = ERROR
+24 Feb 2019 16:24:56 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 22 ColNo = 16 Msg = 'Cannot make a static reference to the non-static method solution(int[], int[]) from the type Solution'
+24 Feb 2019 16:25:11 GMT: diagnostics = javax.tools.DiagnosticCollector@1382d77d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@74ef4817
+fileObjects = [C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java]
+24 Feb 2019 16:25:11 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@e62d985' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\OWNER\Desktop\OPINNOT\testit;C:\Users\OWNER\Documents\GitHub\UI\drjava-beta-20160913-225446.exe]
+24 Feb 2019 16:25:12 GMT: Compiler call returned
+24 Feb 2019 16:25:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@681e9da
+24 Feb 2019 16:25:12 GMT:  Kind = ERROR
+24 Feb 2019 16:25:12 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 22 ColNo = 16 Msg = 'Cannot make a static reference to the non-static method solution(int[], int[]) from the type Solution'
+24 Feb 2019 16:25:32 GMT: diagnostics = javax.tools.DiagnosticCollector@fc9e31a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1c7280cb
+fileObjects = [C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java]
+24 Feb 2019 16:25:32 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6dd07243' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\OWNER\Desktop\OPINNOT\testit;C:\Users\OWNER\Documents\GitHub\UI\drjava-beta-20160913-225446.exe]
+24 Feb 2019 16:25:32 GMT: Compiler call returned
+24 Feb 2019 16:25:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2ffbf8b6
+24 Feb 2019 16:25:32 GMT:  Kind = ERROR
+24 Feb 2019 16:25:32 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 22 ColNo = 16 Msg = 'Cannot make a static reference to the non-static method solution(int[], int[]) from the type Solution'
+24 Feb 2019 16:26:46 GMT: diagnostics = javax.tools.DiagnosticCollector@7631ce09
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@37554bb5
+fileObjects = [C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java]
+24 Feb 2019 16:26:46 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@14ae7648' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\OWNER\Desktop\OPINNOT\testit;C:\Users\OWNER\Documents\GitHub\UI\drjava-beta-20160913-225446.exe]
+24 Feb 2019 16:26:46 GMT: Compiler call returned
+24 Feb 2019 16:26:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5954c1a7
+24 Feb 2019 16:26:46 GMT:  Kind = ERROR
+24 Feb 2019 16:26:46 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 23 ColNo = 24 Msg = 'Cannot make a static reference to the non-static method solution(int[], int[]) from the type Solution'
+24 Feb 2019 16:28:34 GMT: diagnostics = javax.tools.DiagnosticCollector@1c948ca2
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@247a5454
+fileObjects = [C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java]
+24 Feb 2019 16:28:34 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@16f211c0' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\OWNER\Desktop\OPINNOT\testit;C:\Users\OWNER\Documents\GitHub\UI\drjava-beta-20160913-225446.exe]
+24 Feb 2019 16:28:34 GMT: Compiler call returned
+24 Feb 2019 16:28:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7ed7eb3
+24 Feb 2019 16:28:34 GMT:  Kind = ERROR
+24 Feb 2019 16:28:34 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 19 ColNo = 25 Msg = 'Str cannot be resolved to a type'
+24 Feb 2019 16:28:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6acd98e6
+24 Feb 2019 16:28:34 GMT:  Kind = ERROR
+24 Feb 2019 16:28:34 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 23 ColNo = 24 Msg = 'Cannot make a static reference to the non-static method solution(int[], int[]) from the type Solution'
+24 Feb 2019 16:29:37 GMT: diagnostics = javax.tools.DiagnosticCollector@1c33fc63
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2dd16f86
+fileObjects = [C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java]
+24 Feb 2019 16:29:37 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@21f2fe55' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\OWNER\Desktop\OPINNOT\testit;C:\Users\OWNER\Documents\GitHub\UI\drjava-beta-20160913-225446.exe]
+24 Feb 2019 16:29:37 GMT: Compiler call returned
+24 Feb 2019 16:29:37 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@56e10f29
+24 Feb 2019 16:29:37 GMT:  Kind = ERROR
+24 Feb 2019 16:29:37 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 23 ColNo = 24 Msg = 'Cannot make a static reference to the non-static method solution(int[], int[]) from the type Solution'
+24 Feb 2019 16:29:46 GMT: diagnostics = javax.tools.DiagnosticCollector@736da929
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@331ce8bd
+fileObjects = [C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java]
+24 Feb 2019 16:29:46 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@44e2057e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\OWNER\Desktop\OPINNOT\testit;C:\Users\OWNER\Documents\GitHub\UI\drjava-beta-20160913-225446.exe]
+24 Feb 2019 16:29:46 GMT: Compiler call returned
+24 Feb 2019 16:29:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5deabc1e
+24 Feb 2019 16:29:46 GMT:  Kind = ERROR
+24 Feb 2019 16:29:46 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 23 ColNo = 24 Msg = 'Cannot make a static reference to the non-static method solution(int[], int[]) from the type Solution'
+24 Feb 2019 16:30:01 GMT: diagnostics = javax.tools.DiagnosticCollector@249b706e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@43b0da7c
+fileObjects = [C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java]
+24 Feb 2019 16:30:01 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5c5efb7d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\OWNER\Desktop\OPINNOT\testit;C:\Users\OWNER\Documents\GitHub\UI\drjava-beta-20160913-225446.exe]
+24 Feb 2019 16:30:01 GMT: Compiler call returned
+24 Feb 2019 16:30:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@748b5969
+24 Feb 2019 16:30:01 GMT:  Kind = ERROR
+24 Feb 2019 16:30:01 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 23 ColNo = 24 Msg = 'Cannot make a static reference to the non-static method solution(int[], int[]) from the type Solution'
+24 Feb 2019 16:30:10 GMT: diagnostics = javax.tools.DiagnosticCollector@1d484817
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3098dda0
+fileObjects = [C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java]
+24 Feb 2019 16:30:10 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@710606bc' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\OWNER\Desktop\OPINNOT\testit;C:\Users\OWNER\Documents\GitHub\UI\drjava-beta-20160913-225446.exe]
+24 Feb 2019 16:30:10 GMT: Compiler call returned
+24 Feb 2019 16:30:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7d54cec1
+24 Feb 2019 16:30:10 GMT:  Kind = ERROR
+24 Feb 2019 16:30:10 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 23 ColNo = 24 Msg = 'Cannot make a static reference to the non-static method solution(int[], int[]) from the type Solution'
+24 Feb 2019 16:31:37 GMT: diagnostics = javax.tools.DiagnosticCollector@17ff659
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@f130f08
+fileObjects = [C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java]
+24 Feb 2019 16:31:37 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@f067e51' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\OWNER\Desktop\OPINNOT\testit;C:\Users\OWNER\Documents\GitHub\UI\drjava-beta-20160913-225446.exe]
+24 Feb 2019 16:31:37 GMT: Compiler call returned
+24 Feb 2019 16:31:37 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8490d3c
+24 Feb 2019 16:31:37 GMT:  Kind = ERROR
+24 Feb 2019 16:31:37 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 22 ColNo = 16 Msg = 'Type mismatch: cannot convert from Solution to int'
+24 Feb 2019 16:31:37 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@60febbb9
+24 Feb 2019 16:31:37 GMT:  Kind = ERROR
+24 Feb 2019 16:31:37 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 23 ColNo = 24 Msg = 'Cannot make a static reference to the non-static method solution(int[], int[]) from the type Solution'
+24 Feb 2019 16:31:53 GMT: diagnostics = javax.tools.DiagnosticCollector@23778db
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4cad6b8a
+fileObjects = [C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java]
+24 Feb 2019 16:31:53 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7392789e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\OWNER\Desktop\OPINNOT\testit;C:\Users\OWNER\Documents\GitHub\UI\drjava-beta-20160913-225446.exe]
+24 Feb 2019 16:31:54 GMT: Compiler call returned
+24 Feb 2019 16:31:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@44da6b87
+24 Feb 2019 16:31:54 GMT:  Kind = ERROR
+24 Feb 2019 16:31:54 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 22 ColNo = 16 Msg = 'The method Solution() is undefined for the type Solution'
+24 Feb 2019 16:31:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7fb4e811
+24 Feb 2019 16:31:54 GMT:  Kind = ERROR
+24 Feb 2019 16:31:54 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 23 ColNo = 24 Msg = 'Cannot make a static reference to the non-static method solution(int[], int[]) from the type Solution'
+24 Feb 2019 16:32:14 GMT: diagnostics = javax.tools.DiagnosticCollector@112fbd99
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2cab2207
+fileObjects = [C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java]
+24 Feb 2019 16:32:14 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1b697890' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\OWNER\Desktop\OPINNOT\testit;C:\Users\OWNER\Documents\GitHub\UI\drjava-beta-20160913-225446.exe]
+24 Feb 2019 16:32:15 GMT: Compiler call returned
+24 Feb 2019 16:32:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@71f1466d
+24 Feb 2019 16:32:15 GMT:  Kind = ERROR
+24 Feb 2019 16:32:15 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 22 ColNo = 16 Msg = 'Cannot make a static reference to the non-static method solution(int[], int[]) from the type Solution'
+24 Feb 2019 16:32:27 GMT: diagnostics = javax.tools.DiagnosticCollector@1dabdd63
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@b2bef8d
+fileObjects = [C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java]
+24 Feb 2019 16:32:27 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@68808c51' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\OWNER\Desktop\OPINNOT\testit;C:\Users\OWNER\Documents\GitHub\UI\drjava-beta-20160913-225446.exe]
+24 Feb 2019 16:32:27 GMT: Compiler call returned
+24 Feb 2019 16:32:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@46ada030
+24 Feb 2019 16:32:27 GMT:  Kind = ERROR
+24 Feb 2019 16:32:27 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 22 ColNo = 16 Msg = 'Cannot make a static reference to the non-static method solution(int[], int[]) from the type Solution'
+24 Feb 2019 16:32:28 GMT: diagnostics = javax.tools.DiagnosticCollector@3b27360e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@35c62e51
+fileObjects = [C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java]
+24 Feb 2019 16:32:28 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@24b18b25' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\OWNER\Desktop\OPINNOT\testit;C:\Users\OWNER\Documents\GitHub\UI\drjava-beta-20160913-225446.exe]
+24 Feb 2019 16:32:28 GMT: Compiler call returned
+24 Feb 2019 16:32:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7fd59977
+24 Feb 2019 16:32:28 GMT:  Kind = ERROR
+24 Feb 2019 16:32:28 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 22 ColNo = 16 Msg = 'Cannot make a static reference to the non-static method solution(int[], int[]) from the type Solution'
+24 Feb 2019 16:33:20 GMT: diagnostics = javax.tools.DiagnosticCollector@40b34dc1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2529b9b3
+fileObjects = [C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java]
+24 Feb 2019 16:33:20 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@49a73290' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\OWNER\Desktop\OPINNOT\testit;C:\Users\OWNER\Documents\GitHub\UI\drjava-beta-20160913-225446.exe]
+24 Feb 2019 16:33:20 GMT: Compiler call returned
+24 Feb 2019 16:33:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@60145899
+24 Feb 2019 16:33:20 GMT:  Kind = ERROR
+24 Feb 2019 16:33:20 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 22 ColNo = 21 Msg = 'The constructor Solution(int[], int[]) is undefined'
+24 Feb 2019 16:33:29 GMT: diagnostics = javax.tools.DiagnosticCollector@18ecd882
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1c71282e
+fileObjects = [C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java]
+24 Feb 2019 16:33:29 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1236128e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\OWNER\Desktop\OPINNOT\testit;C:\Users\OWNER\Documents\GitHub\UI\drjava-beta-20160913-225446.exe]
+24 Feb 2019 16:33:29 GMT: Compiler call returned
+24 Feb 2019 16:33:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@56236b41
+24 Feb 2019 16:33:29 GMT:  Kind = WARNING
+24 Feb 2019 16:33:29 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 20 ColNo = 9 Msg = 'The value of the local variable a is not used'
+24 Feb 2019 16:33:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d645c88
+24 Feb 2019 16:33:29 GMT:  Kind = WARNING
+24 Feb 2019 16:33:29 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 21 ColNo = 9 Msg = 'The value of the local variable b is not used'
+24 Feb 2019 16:33:49 GMT: diagnostics = javax.tools.DiagnosticCollector@102773f0
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@78e87762
+fileObjects = [C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java]
+24 Feb 2019 16:33:49 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@57c493b4' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\OWNER\Desktop\OPINNOT\testit;C:\Users\OWNER\Documents\GitHub\UI\drjava-beta-20160913-225446.exe]
+24 Feb 2019 16:33:49 GMT: Compiler call returned
+24 Feb 2019 16:33:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1dab13d8
+24 Feb 2019 16:33:49 GMT:  Kind = ERROR
+24 Feb 2019 16:33:49 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 23 ColNo = 24 Msg = 'The method result(int[], int[]) is undefined for the type Solution'
+24 Feb 2019 16:33:51 GMT: diagnostics = javax.tools.DiagnosticCollector@38fd0f97
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@58c9c5a1
+fileObjects = [C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java]
+24 Feb 2019 16:33:51 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7c869da3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\OWNER\Desktop\OPINNOT\testit;C:\Users\OWNER\Documents\GitHub\UI\drjava-beta-20160913-225446.exe]
+24 Feb 2019 16:33:52 GMT: Compiler call returned
+24 Feb 2019 16:33:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@409435ff
+24 Feb 2019 16:33:52 GMT:  Kind = ERROR
+24 Feb 2019 16:33:52 GMT: Name = C:\Users\OWNER\Desktop\OPINNOT\testit\Solution.java LineNo = 23 ColNo = 24 Msg = 'The method result(int[], int[]) is undefined for the type Solution'
